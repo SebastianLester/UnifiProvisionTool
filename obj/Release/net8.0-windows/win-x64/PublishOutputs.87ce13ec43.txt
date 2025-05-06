@@ -1,0 +1,17 @@
+Z:\PersonalProjects\UniFiProvisionTool\bin\Release\net8.0-windows\win-x64\app.publish\UniFiProvisionTool.exe
+Z:\PersonalProjects\UniFiProvisionTool\bin\Release\net8.0-windows\win-x64\app.publish\runtimes\win-x64\native\WebView2Loader.dll
+Z:\PersonalProjects\UniFiProvisionTool\bin\Release\net8.0-windows\win-x64\app.publish\UniFiProvisionTool.dll
+Z:\PersonalProjects\UniFiProvisionTool\bin\Release\net8.0-windows\win-x64\app.publish\UniFiProvisionTool.deps.json
+Z:\PersonalProjects\UniFiProvisionTool\bin\Release\net8.0-windows\win-x64\app.publish\UniFiProvisionTool.runtimeconfig.json
+Z:\PersonalProjects\UniFiProvisionTool\bin\Release\net8.0-windows\win-x64\app.publish\UniFiProvisionTool.pdb
+Z:\PersonalProjects\UniFiProvisionTool\bin\Release\net8.0-windows\win-x64\app.publish\BouncyCastle.Cryptography.dll
+Z:\PersonalProjects\UniFiProvisionTool\bin\Release\net8.0-windows\win-x64\app.publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\PersonalProjects\UniFiProvisionTool\bin\Release\net8.0-windows\win-x64\app.publish\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\PersonalProjects\UniFiProvisionTool\bin\Release\net8.0-windows\win-x64\app.publish\Renci.SshNet.dll
+Z:\PersonalProjects\UniFiProvisionTool\bin\Release\net8.0-windows\win-x64\app.publish\WebView2Loader.dll
+Z:\PersonalProjects\UniFiProvisionTool\bin\Release\net8.0-windows\win-x64\app.publish\Microsoft.Web.WebView2.Core.dll
+Z:\PersonalProjects\UniFiProvisionTool\bin\Release\net8.0-windows\win-x64\app.publish\Microsoft.Web.WebView2.WinForms.dll
+Z:\PersonalProjects\UniFiProvisionTool\bin\Release\net8.0-windows\win-x64\app.publish\Microsoft.Web.WebView2.Wpf.dll
+Z:\PersonalProjects\UniFiProvisionTool\bin\Release\net8.0-windows\win-x64\app.publish\Microsoft.Web.WebView2.Core.xml
+Z:\PersonalProjects\UniFiProvisionTool\bin\Release\net8.0-windows\win-x64\app.publish\Microsoft.Web.WebView2.WinForms.xml
+Z:\PersonalProjects\UniFiProvisionTool\bin\Release\net8.0-windows\win-x64\app.publish\Microsoft.Web.WebView2.Wpf.xml
