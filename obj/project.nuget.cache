@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QsbC1U6/zzw=",
+  "dgSpecHash": "w5wXq36bo6E=",
   "success": true,
-  "projectFilePath": "Z:\\PersonalProjects\\UniFiProvisionTool\\UniFiProvisionTool.csproj",
+  "projectFilePath": "Z:\\source\\UnifiProvisionTool\\UniFiProvisionTool.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SebastianLester\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\SebastianLester\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",

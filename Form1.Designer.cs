@@ -217,23 +217,12 @@ namespace UniFiProvisionTool
                 Font = new Font("Consolas", 9)
             };
 
-            // credit label
-            var lblCredit = new Label
-            {
-                Text = "Built by Sebastian Lester",
-                AutoSize = true,
-                Font = new Font("Segoe UI", 8, FontStyle.Italic),
-                Location = new Point(12, this.ClientSize.Height - 30),
-                Anchor = AnchorStyles.Bottom | AnchorStyles.Left
-            };
-            this.Controls.Add(lblCredit);
-
             // GitHub link
             var lnkGitHub = new LinkLabel
             {
                 Text = "GitHub: uniﬁ-provision-tool",
                 AutoSize = true,
-                Location = new Point(12 + lblCredit.Width + 20, this.ClientSize.Height - 30),
+                Location = new Point(12, this.ClientSize.Height - 30),
                 Anchor = AnchorStyles.Bottom | AnchorStyles.Left
             };
             lnkGitHub.Links.Add(8, lnkGitHub.Text.Length - 8, "https://github.com/SebastianLester/UnifiProvisionTool");

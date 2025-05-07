@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UniFiProvisionTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1020820776b9f4ebda3477d41bc2671a4cba8ab1")]
 [assembly: System.Reflection.AssemblyProductAttribute("UniFiProvisionTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UniFiProvisionTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

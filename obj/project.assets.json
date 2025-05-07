@@ -349,11 +349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\PersonalProjects\\UniFiProvisionTool\\UniFiProvisionTool.csproj",
+      "projectUniqueName": "Z:\\source\\UnifiProvisionTool\\UniFiProvisionTool.csproj",
       "projectName": "UniFiProvisionTool",
-      "projectPath": "Z:\\PersonalProjects\\UniFiProvisionTool\\UniFiProvisionTool.csproj",
+      "projectPath": "Z:\\source\\UnifiProvisionTool\\UniFiProvisionTool.csproj",
       "packagesPath": "C:\\Users\\SebastianLester\\.nuget\\packages\\",
-      "outputPath": "Z:\\PersonalProjects\\UniFiProvisionTool\\obj\\",
+      "outputPath": "Z:\\source\\UnifiProvisionTool\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
